@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="46668" started-at="2019-08-06T10:57:20Z" finished-at="2019-08-06T10:58:07Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="46668" started-at="2019-08-06T10:57:20Z" finished-at="2019-08-06T10:58:07Z">
+      <class name="selen_case1.OnlineShopping">
+        <test-method status="PASS" signature="launch()[pri:0, instance:selen_case1.OnlineShopping@91161c7]" name="launch" is-config="true" duration-ms="26277" started-at="2019-08-06T10:57:21Z" finished-at="2019-08-06T10:57:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="testlogin()[pri:0, instance:selen_case1.OnlineShopping@91161c7]" name="testlogin" duration-ms="20283" started-at="2019-08-06T10:57:47Z" finished-at="2019-08-06T10:58:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+      </class> <!-- selen_case1.OnlineShopping -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
